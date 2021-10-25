@@ -74,17 +74,17 @@ const squadreCalcio = [
     },
     {
         nome: 'juventus',
-        punti: 0,
+        puntiFatti: 0,
         falliSubiti: 0,
     },
     {
         nome: 'inter',
-        punti: 0,
+        puntiFatti: 0,
         falliSubiti: 0,
     },
     {
         nome: 'roma',
-        punti: 0,
+        puntiFatti: 0,
         falliSubiti: 0,
     },
 ]
